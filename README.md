@@ -1,1 +1,5 @@
-# Licking-the-Catacombs
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/LEAHWEBB1106-GLITCH/catacombs-cuisine.git
+git push -u origin main
